@@ -5,7 +5,7 @@ Designed and automated a full CI/CD pipeline using Jenkins, Terraform, Ansible, 
 
 Below is a step-by-step breakdown of the complete **DevOps CI/CD pipeline**, showcasing how automation, integration, and monitoring come together for seamless application delivery.
 
-
+---
 
 ###  Step 1: Infrastructure Provisioning (Terraform)
 
@@ -89,6 +89,5 @@ Automates rollout, rollback, and version control for microservices.
 Integrated **Prometheus** for metrics collection and **Grafana** for real-time visualization.
 Provides system health dashboards and alerting for proactive issue detection.
 
----
 
-Would you like me to add a **“Technologies Used”** and **“Key Highlights”** section at the end to make your README even more professional (like for GitHub or portfolio)?
+
